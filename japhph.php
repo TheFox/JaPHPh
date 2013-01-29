@@ -29,8 +29,8 @@ class p{
 	
 	public function __call($c, $a){
 		print ''.($this->x .= $c)."\n";
-    }
-    
+	}
+	
 }
 
 $p = new p();
