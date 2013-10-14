@@ -1,8 +1,6 @@
 # JaPHPh
 Just another PHP hacker.
 
-Visit [fox21.at](http://fox21.at).
-
 ## License
 Copyright (C) 2013 Christian Mayer (<thefox21at@gmail.com> - <http://fox21.at>)
 
