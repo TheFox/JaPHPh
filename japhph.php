@@ -1,8 +1,8 @@
 <?php
 
 /*
-	Created @ 28.01.2012 by TheFox@fox21.at
-	Copyright (c) 2012 TheFox
+	Created @ 28.01.2012
+	Copyright (C) 2012 Christian Mayer <http://fox21.at>
 	
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
@@ -36,6 +36,3 @@ class p{
 $p = new p();
 
 $p->r($p->e($p->k($p->c($p->a($p->h($p->PHP($p->r($p->e($p->h($p->t($p->o($p->n($p->A($p->t($p->s($p->u($p->J())))))))))))))))));
-
-
-?>
